@@ -4,6 +4,8 @@ string age;
 
 string country;
 
+short
+
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.BackgroundColor = ConsoleColor.Black;
 Console.Clear();
