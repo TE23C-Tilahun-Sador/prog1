@@ -1,0 +1,14 @@
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\bin\Debug\net8.0\LuckText.exe
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\bin\Debug\net8.0\LuckText.deps.json
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\bin\Debug\net8.0\LuckText.runtimeconfig.json
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\bin\Debug\net8.0\LuckText.dll
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\bin\Debug\net8.0\LuckText.pdb
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.AssemblyInfoInputs.cache
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.AssemblyInfo.cs
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.csproj.CoreCompileInputs.cache
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.dll
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\refint\LuckText.dll
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.pdb
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\LuckText.genruntimeconfig.cache
+c:\Users\Sador.tilahun\Documents\prog1\23C_Lucktext\LuckText\LuckText\obj\Debug\net8.0\ref\LuckText.dll
